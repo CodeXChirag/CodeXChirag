@@ -22,7 +22,7 @@
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: chiragxcode@example.com
+- 📧 Email: chiragxcode@gmail.com
 - 💼 LinkedIn:[linkedin.com/in/chirag-khandelwal-056103374](https://www.linkedin.com/in/chirag-khandelwal-056103374)
 
 ---
