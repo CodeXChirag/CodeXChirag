@@ -1,31 +1,28 @@
-# 👋 Hi, I'm Chirag!
+# Chirag Khandelwal 👋
 
-🎓 Final year B.Tech CSE student | 💻 Passionate about learning code  
-🚀 Currently learning Python & Full Stack Web Development  
-📦 Check out my first organized GitHub repo: [python-projects](https://github.com/CodeXChirag/python-projects)
+Aspiring **Data Analyst** | B.Tech CSE (Indus University, Ahmedabad)
 
----
+I work with **Python, SQL, Power BI, and Excel** to clean data, analyze information, and build interactive dashboards. I am also currently learning **AWS** and exploring **Data Engineering** alongside Data Analytics.
 
-## 🛠️ Skills I’m Building
-- Python (Basics, conditionals, logic)
-- Web Development (HTML, CSS, JavaScript)
-- Git & GitHub (✅ first repo structured)
-- Problem solving
+## 🛠 Skills
 
----
+* 🐍 **Python (Pandas)**
+* 🗄 **SQL**
+* 📊 **Power BI**
+* 🔄 **Power Query**
+* 🧠 **DAX**
+* 📑 **Excel**
+* 📈 **Data Visualization**
 
-## 📘 Projects
-- 🧮 [Simple Calculator](https://github.com/CodeXChirag/python-projects/tree/main/Calculator)
-- 🎯 [KBC Quiz Game](https://github.com/CodeXChirag/python-projects/tree/main/KBC-Quiz)
-- 👋 [Hello World](https://github.com/CodeXChirag/python-projects/tree/main/Hello)
+## 🌱 Currently Learning
 
----
+* ☁️ **AWS**
+* ⚙️ **Data Engineering fundamentals**
+
 
 ## 📫 Connect with Me
 - 📧 Email: chiragxcode@gmail.com
 - 💼 LinkedIn:[linkedin.com/in/chirag-khandelwal-056103374](https://www.linkedin.com/in/chirag-khandelwal-056103374)
-
----
 
 > "Consistency beats talent when talent doesn’t work hard."  
 – Working on my journey, one commit at a time 🚀
