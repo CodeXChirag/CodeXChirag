@@ -22,7 +22,7 @@ I work with **Python, SQL, Power BI, and Excel** to clean data, analyze informat
 
 ## 📫 Connect with Me
 - 📧 Email: chiragkhandelwal817@gmail.com
-- 💼 LinkedIn:https://www.linkedin.com/in/chirag-khandelwal-2926423a3/
+- 💼 LinkedIn:https://www.linkedin.com/in/chirag-khandelwalll
 
 > "Consistency beats talent when talent doesn’t work hard."  
 – Working on my journey, one commit at a time 🚀
